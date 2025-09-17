@@ -12,3 +12,4 @@ python:
   - method: pip
     path: ./
 newSetting: updated-value
+python.install.newSetting: updated-value
